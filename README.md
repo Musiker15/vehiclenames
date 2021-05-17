@@ -1,5 +1,3 @@
-# musiker15_vehiclenames
-FiveM Importcar Vehiclenames
 Citizen.CreateThread(function()
   -- AddTextEntry("model", "Name") --> Copy this and Paste it in the next line. Wihtout an ,
 
