@@ -3,17 +3,13 @@ function AddTextEntry(key, value)
 end
 
 Citizen.CreateThread(function()
-    -- AddTextEntry("model", "Name") --> Copy this and Paste it in the next line. Wihtout an ,
-  
-    -- Replace "model" with the spawnname of the Vehicle
-    -- Replace "Name" with the Name of the Vehicle
-  
-    -- Example: AddTextEntry("rs7", "Audi RS7")
-
     -- Ambulance
     -- Police
     -- Aston Martin
+
     -- Audi
+    -- AddTextEntry("rs7", "Audi RS7")
+
     -- Bentley
     -- BMW
     -- Bugatti
