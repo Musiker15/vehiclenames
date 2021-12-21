@@ -4,7 +4,7 @@ FiveM Vehiclename Script that shows the Vehiclename instead of NULL in Garage
 ## Description
 AddTextEntry("model", "Name")
 
-* Replace "model" with the gameName of the Vehicle
+* Replace "model" with the gameName of the Vehicle -> Can be found in vehicles.meta
 * Replace "Name" with the Name of the Vehicle
 
 ### Example
