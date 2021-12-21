@@ -8,7 +8,7 @@ Citizen.CreateThread(function()
     -- Aston Martin
 
     -- Audi
-    -- AddTextEntry("rs7", "Audi RS7")
+    AddTextEntry("rs7", "Audi RS7")
 
     -- Bentley
     -- BMW
